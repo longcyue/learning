@@ -14,3 +14,6 @@ f=open('ff')
 res = json.load(f)
 f.close()
 print(type(res),res)
+
+
+#最近工作比较忙，学得匆忙，周六看书好好复习，写5个列子的代码
